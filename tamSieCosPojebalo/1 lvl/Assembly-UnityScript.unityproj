@@ -57,6 +57,7 @@
      <Compile Include="Assets\Inventory\Scripts\Other\InvAudio.js" />
      <Compile Include="Assets\Inventory\Scripts\Other\InvPauseGame.js" />
      <Compile Include="Assets\Inventory\Scripts\Other\WeaponSwitch.js" />
+     <Compile Include="Assets\lava\AnimacjaTextury.js" />
      <None Include="Assets\Inventory\Credits + C#.txt" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
   </ItemGroup>
