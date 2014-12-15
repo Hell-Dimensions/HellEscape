@@ -1,8 +1,9 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\fadeCamera.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\portalGun.cs">
     <Files>
-      <File FileName="Assets\fadeCamera.cs" Line="5" Column="36" />
+      <File FileName="Assets\flash.cs" Line="1" Column="5" />
+      <File FileName="Assets\portalGun.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
