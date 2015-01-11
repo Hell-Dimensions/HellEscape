@@ -1,4 +1,4 @@
 Jak zrobicie jakiœ model, skrypt, teksture, animacje, czy cokolwiek to dajcie to do odpowiedniego modelu np. grafika/pochodnie a jak nie ma odpowiedniego
 folderu tematycznego to poprostu taki stwórzcie tak, ¿eby by³o wszystko pouk³adane i czytelne.
-Update'y do samej sceny bêdê w¿uca³ albo ja, albo Piotrek, bo unity jest na tyle niestabilne na tym githubie, ¿e jak ka¿dy bêdzie w¿uca³ bezpoœrodnio do sceny 
+Update'y do samej sceny bêdê w¿uca³ albo ja (Maks), albo Piotrek, bo unity jest na tyle niestabilne na tym githubie, ¿e jak ka¿dy bêdzie w¿uca³ bezpoœrodnio do sceny 
 to mo¿e siê coœ spieprzyæ.
